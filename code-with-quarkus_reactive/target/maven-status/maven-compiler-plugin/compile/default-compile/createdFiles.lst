@@ -1,0 +1,4 @@
+org/QuarkusProjectReactive/repository/PersonRepository.class
+org/QuarkusProjectReactive/model/Person.class
+org/QuarkusProjectReactive/resource/PersonResource.class
+org/QuarkusProjectReactive/GreetingResource.class
