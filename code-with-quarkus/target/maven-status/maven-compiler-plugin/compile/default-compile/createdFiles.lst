@@ -1,0 +1,3 @@
+org/acme/GreetingResource.class
+org/acme/controller/FruitResource.class
+org/acme/repository/Fruit.class
